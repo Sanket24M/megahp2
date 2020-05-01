@@ -120,8 +120,8 @@
 .elementor-39 .elementor-element.elementor-element-4f70467 .elementor-heading-title {font-weight: 400;}
 .elementor-39 .elementor-element.elementor-element-a813ec1 > .elementor-container {max-width: 1243px;}
 .elementor-39 .elementor-element.elementor-element-a813ec1 {margin-top: -68px;margin-bottom: 0px;}
+.elementor-39 .elementor-element.elementor-element-f3b10ab a.elementor-button, .elementor-39 .elementor-element.elementor-element-f3b10ab .elementor-button {fill: #fff;color: #fff;background-color: #fcae1e;}
 .elementor-39 .elementor-element.elementor-element-5ea17b6 {margin-top: -390px;margin-bottom: 0px;}
-.elementor-39 .elementor-element.elementor-element-8a49c50 a.elementor-button, .elementor-39 .elementor-element.elementor-element-8a49c50 .elementor-button {fill: #fff;color: #fff;background-color: #fcae1e;}
 .elementor-39 .elementor-element.elementor-element-05c5f2a.elementor-widget-heading .elementor-heading-title {color: #000;}
 .elementor-39 .elementor-element.elementor-element-05c5f2a .elementor-heading-title {font-weight: 400;}
 @media (max-width:1024px) {.elementor-39 .elementor-element.elementor-element-00c7b8e {text-align: left;}
@@ -160,6 +160,7 @@
 	.elementor-39 .elementor-element.elementor-element-00c7b8e > .elementor-widget-container {margin: -52px 0px 0px 0px;}
 	.elementor-39 .elementor-element.elementor-element-ec1bcce {text-align: center;}
 	.elementor-39 .elementor-element.elementor-element-ec1bcce .elementor-image img {max-width: 100%;}
+	.elementor-39 .elementor-element.elementor-element-610b7ea {margin-top: -92px;margin-bottom: 0px;}
 	.elementor-39 .elementor-element.elementor-element-ecc1bd6 {text-align: center;}
 	.elementor-39 .elementor-element.elementor-element-ecc1bd6 .elementor-heading-title {font-size: 28px;line-height: 1.3em;letter-spacing: -.2px;}
 	.elementor-39 .elementor-element.elementor-element-1a6a94e {text-align: center;}
@@ -196,11 +197,14 @@
 	.elementor-39 .elementor-element.elementor-element-af55631 .elementor-heading-title {font-size: 18px;}
 	.elementor-39 .elementor-element.elementor-element-af55631 > .elementor-widget-container {margin: 19px 0px 0px 0px;}
 	.elementor-39 .elementor-element.elementor-element-9ccc059 > .elementor-widget-container {margin: 12px 0px 0px 0px;}
+	.elementor-39 .elementor-element.elementor-element-e336c8b {margin-top: -32px;margin-bottom: 0px;}
 	.elementor-39 .elementor-element.elementor-element-28fba91 {text-align: center;}
 	.elementor-39 .elementor-element.elementor-element-28fba91 .elementor-heading-title {font-size: 28px;}
+	.elementor-39 .elementor-element.elementor-element-28fba91 > .elementor-widget-container {margin: 0px 0px -7px 0px;}
 	.elementor-39 .elementor-element.elementor-element-01d5faf {text-align: left;}
 	.elementor-39 .elementor-element.elementor-element-01d5faf .elementor-heading-title {font-size: 16px;line-height: 1.4em;letter-spacing: 1.3px;}
 	.elementor-39 .elementor-element.elementor-element-9fa7a18:not(.elementor-motion-effects-element-type-background), .elementor-39 .elementor-element.elementor-element-9fa7a18 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://sanket24m.github.io/megahp2/wp-content/uploads/2020/04/row-bg.jpg");}
+	.elementor-39 .elementor-element.elementor-element-9fa7a18 {margin-top: -45px;margin-bottom: 0px;}
 	.elementor-39 .elementor-element.elementor-element-0716da0 {text-align: center;}
 	.elementor-39 .elementor-element.elementor-element-0716da0 .elementor-heading-title {font-size: 23px;line-height: 1.4em;letter-spacing: 1.3px;}
 	.elementor-39 .elementor-element.elementor-element-5f89843 {margin-top: -58px;margin-bottom: 0px;}
@@ -229,6 +233,7 @@
 	.elementor-39 .elementor-element.elementor-element-ebad61e .elementor-heading-title {font-size: 18px;line-height: 1em;}
 	.elementor-39 .elementor-element.elementor-element-ebad61e > .elementor-widget-container {margin: 5px 0px 0px 0px;}
 	.elementor-39 .elementor-element.elementor-element-ec0a2c0 > .elementor-widget-container {margin: -46px 0px 0px 0px;}
+	.elementor-39 .elementor-element.elementor-element-5859a26 {margin-top: -26px;margin-bottom: 0px;}
 	.elementor-39 .elementor-element.elementor-element-d29a47d {text-align: center;}
 	.elementor-39 .elementor-element.elementor-element-5b51867 {text-align: left;}
 	.elementor-39 .elementor-element.elementor-element-5b51867 .elementor-heading-title {font-size: 18px;line-height: 1.6em;letter-spacing: -.8px;}
@@ -243,7 +248,7 @@
 	.elementor-39 .elementor-element.elementor-element-5d7f679 > .elementor-widget-container {margin: -33px 0px 0px 42px;}
 	.elementor-39 .elementor-element.elementor-element-1a7357b {text-align: left;}
 	.elementor-39 .elementor-element.elementor-element-16a1678 .elementor-heading-title {font-size: 19px;line-height: .3em;letter-spacing: 1.5px;}
-	.elementor-39 .elementor-element.elementor-element-16a1678 > .elementor-widget-container {margin: -33px 0px 0px 42px;}
+	.elementor-39 .elementor-element.elementor-element-16a1678 > .elementor-widget-container {margin: -33px 0px 0px 42px;padding: 0px 0px 15px 0px;}
 	.elementor-39 .elementor-element.elementor-element-afa2960 {text-align: left;}
 	.elementor-39 .elementor-element.elementor-element-28e9fcd .elementor-heading-title {font-size: 19px;line-height: .3em;letter-spacing: 1.5px;}
 	.elementor-39 .elementor-element.elementor-element-28e9fcd > .elementor-widget-container {margin: -33px 0px 0px 42px;}
@@ -265,7 +270,8 @@
 	.elementor-39 .elementor-element.elementor-element-70c263b > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: -5px;}
 	.elementor-39 .elementor-element.elementor-element-2ca9150 {text-align: center;}
 	.elementor-39 .elementor-element.elementor-element-b7d1876 {margin-top: -78px;margin-bottom: 0px;}
-	.elementor-39 .elementor-element.elementor-element-8a49c50 > .elementor-widget-container {margin: -46px 0px 0px 0px;}
+	.elementor-39 .elementor-element.elementor-element-f3b10ab > .elementor-widget-container {margin: -46px 0px 0px 0px;}
+	.elementor-39 .elementor-element.elementor-element-5ea17b6 {margin-top: 16px;margin-bottom: 0px;}
 	.elementor-39 .elementor-element.elementor-element-05c5f2a .elementor-heading-title {font-size: 16px;line-height: 1.1em;letter-spacing: -.3px;}
 	.elementor-39 .elementor-element.elementor-element-05c5f2a > .elementor-widget-container {margin: -121px 0px 0px 0px;}}
 @media (min-width:768px) {.elementor-39 .elementor-element.elementor-element-7a1200b {width: 100%;}}
